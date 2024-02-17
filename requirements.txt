@@ -1,5 +1,5 @@
 numpy
 scikit-learn
-keras
+keras == 2.15.0
 streamlit
 tensorflow == 2.15.0
